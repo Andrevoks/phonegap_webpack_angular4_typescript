@@ -1,8 +1,11 @@
 {
   "name": "phonegap_webpack_angular4_typescript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quick start with phonegap & webpack & angular4 & typescript & sass",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mixalbl4-127/phonegap_webpack_angular4_typescript.git"
+  },
   "scripts": {
     "test": "karma start",
     "build_prod_android": "rm -r -d -f ./platforms && rm -r -d -f ./plugins && npm install && npm update && npm run phonegap_init_android && npm run build_only_webpack_prod",
