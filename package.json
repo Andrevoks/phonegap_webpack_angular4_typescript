@@ -1,6 +1,6 @@
 {
   "name": "phonegap_webpack_angular4_typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Quick start with phonegap & webpack & angular4 & typescript & sass",
   "repository": {
     "type": "git",
